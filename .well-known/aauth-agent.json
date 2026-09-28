@@ -1,0 +1,6 @@
+{
+  "issuer": "https://nandamller.github.io",
+  "jwks_uri": "https://nandamller.github.io/.well-known/jwks.json",
+  "client_name": "FerAgent",
+  "logo_uri": "https://avatars.githubusercontent.com/u/44587974?v=4"
+}

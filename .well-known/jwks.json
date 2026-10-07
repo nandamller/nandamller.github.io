@@ -1,15 +1,15 @@
 {
   "keys": [
     {
-      "kty": "OKP",
       "crv": "Ed25519",
-      "x": "iUvaJekDqc9bevAELK7xZ8TqOHDx9xS4X0joFQkAens",
-      "kid": "2026-09-28_87b",
-      "use": "sig",
+      "x": "aaOXafYh5V0IJNavL26acY_QFhfRgYSZELaqxLyDaxI",
+      "kty": "OKP",
       "alg": "Ed25519",
+      "kid": "2026-10-07_874",
+      "use": "sig",
       "aauth": {
         "device": "fer-inspiron-15-3520",
-        "created": "2026-09-28"
+        "created": "2026-10-07"
       }
     }
   ]
